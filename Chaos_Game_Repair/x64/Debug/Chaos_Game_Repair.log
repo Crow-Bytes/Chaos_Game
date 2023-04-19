@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\VS Projects\Chaos_Game_Repair\main.cpp(85,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Chaos_Game_Repair\main.cpp(86,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Chaos_Game_Repair\main.cpp(106,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VS Projects\Chaos_Game_Repair\main.cpp(107,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Chaos_Game_Repair.vcxproj -> C:\VS Projects\Chaos_Game_Repair\x64\Debug\Chaos_Game_Repair.exe
