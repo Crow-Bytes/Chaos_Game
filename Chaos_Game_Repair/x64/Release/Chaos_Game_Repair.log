@@ -1,6 +1,0 @@
-﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 231 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Chaos_Game_Repair.vcxproj -> C:\VS Projects\Chaos_Game_Repair\x64\Release\Chaos_Game_Repair.exe
